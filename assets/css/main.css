@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     color: #333;
 }
-
+/* Titles MODIFICADOS WEBIGROUP*/
 
 /* Paragraph & Typographic */
 p {
@@ -101,7 +101,7 @@ a:after {
 
 #headerwrap h1 {
 	margin-top: 130px;
-	color: white;
+	color: black;
 	font-size: 140px;
 	font-weight: 700;
 	letter-spacing: 3px;
@@ -109,7 +109,7 @@ a:after {
 
 #headerwrap h2 {
 	color: white;
-	font-size: 50px;
+	font-size: 55px;
 	font-weight: 100;
 	letter-spacing: 2px;
 }
